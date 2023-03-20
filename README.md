@@ -1,1 +1,1 @@
-# distsys23
+# Distributed System Lecture
